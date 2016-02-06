@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1433340234 source:i:\radioman\dev\rlogic_2\rlogic_2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale.h>
+	<algorithm>
+	<windows.h>
+	<time.h>
+	"Base.hpp"
+
+1433307263 i:\radioman\dev\rlogic_2\rlogic_2\base.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<iterator>
+	"LineOps.hpp"
+
+1433307185 i:\radioman\dev\rlogic_2\rlogic_2\lineops.hpp
+	<vector>
+	<string>
+	<stdlib.h>
+	<iostream>
+
